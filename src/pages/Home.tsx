@@ -2,6 +2,8 @@ import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
 import googleIconImg from '../assets/images/google-icon.svg';
 
+import { Button } from '../components/Button';
+
 import '../styles/auth.scss';
 
 export function Home() {
@@ -9,7 +11,7 @@ export function Home() {
     <div id="page-auth">
       <aside>
         <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
-        <strong>Crie salas em Q&amp;A ao vivo </strong>
+        <strong>Crie salas de Q&amp;A ao vivo </strong>
         <p>Tire as dúvidas da sua audiência em tempo real</p>
       </aside>
       <main>
@@ -25,11 +27,11 @@ export function Home() {
           <form>
             <input
               type="text"
-              placeholder="Digite o código"
+              placeholder="Digite o código da sala"
             />
-            <button type="submit">
+            <Button type="submit">
               Entrar na sala
-            </button>
+            </Button>
           </form>
         </div>
       </main>
