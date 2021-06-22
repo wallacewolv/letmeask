@@ -1,46 +1,104 @@
-# Getting Started with Create React App
+<h1 align="center">Letmeask</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- <div align="center" id="top"> 
+  <img src="public/let.png" alt="Ignews" />
 
-## Available Scripts
+  &#xa0;
+</div> -->
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wallacewolv/letmeask?color=56BEB8">
 
-### `yarn start`
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wallacewolv/letmeask?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wallacewolv/letmeask?color=56BEB8">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="License" src="https://img.shields.io/github/license/wallacewolv/letmeask?color=56BEB8">
 
-### `yarn test`
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
 
-### `yarn build`
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/letmeask?color=56BEB8" /> -->
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 align="center"> Status </h2> 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ <h4 align="center"> 
+	🚧  Letmeask 🚀 Under construction...  🚧
+</h4> 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr> 
 
-### `yarn eject`
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/wallacewolv" target="_blank">Author</a>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :dart: About ##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Application developed at nlw #6, on the React JS trail
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :sparkles: Features ##
 
-## Learn More
+<!-- :heavy_check_mark: Initial Commit;\
+:heavy_check_mark: Add Typescript;\
+:heavy_check_mark: Add Sass and Font-family Roboto;\
+:heavy_check_mark: Creating dinamic title and global styles;\
+:heavy_check_mark: Creating SignInButton;\
+:heavy_check_mark: Add elements with Index and creating Home styles;\
+:heavy_check_mark: Changed to Server Side Generation;\
+:heavy_check_mark: Creating Next Authtication with Github;\
+:heavy_check_mark: Creating fauna file for integration with FaunaDB; -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :rocket: Technologies ##
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The following tools were used in this project:
+
+- [React](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com),  [Node](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com).
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/wallacewolv/letmeask
+
+# Access
+$ cd letmeask
+
+# Install dependencies
+$ yarn 
+
+# Run the project
+$ yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+
+## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/wallacewolv" target="_blank">Wallace Wesley</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
